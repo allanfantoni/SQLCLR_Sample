@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35521.163 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SQLCLR_Sample", "SQLCLR_Sample.sqlproj", "{476ED13D-9F27-4EC4-9766-80377F16D804}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database1", "Database1.sqlproj", "{476ED13D-9F27-4EC4-9766-80377F16D804}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLCLR", "SQLCLR\SQLCLR.csproj", "{36D26DA5-F2EE-472E-BAE4-FB4585710272}"
 EndProject
