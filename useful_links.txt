@@ -1,0 +1,3 @@
+https://dirceuresende.com/blog/introducao-sql-clr-common-language-runtime-sql-server/
+
+https://www.dirceuresende.com/blog/video-introducao-ao-sqlclr/
